@@ -1,0 +1,41 @@
+*{
+    margin:0;
+    padding: 0;
+    background-color:bisque;
+}
+.navbar{
+    background-color: pink;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.nav-right{
+    width: 25%;
+    background-color: pink;
+}
+.nav-left h2 ,.nav-left{
+    background-color: pink;
+}
+
+.pages{
+    background-color: pink;
+    border-style: none;
+    padding: 7%; 
+}
+.pages:hover{
+    background-color: rgb(25, 19, 20,0.1);
+}
+.about-us{
+    margin: 4% 7%;
+    padding: 3%;
+}
+.main-page{
+    margin:5% 40%;
+    text-align: center;    
+    width: 20%;
+    border-width: 5px;
+}
+.products{
+    margin-top: 2em;
+    text-align: center;
+}
